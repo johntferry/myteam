@@ -20,9 +20,14 @@ body {
     /* Fonts */
     /* The text-shadow helps the white text stand out better on a darker background */
     color: white;
-    text-shadow: 1px 1px 1px black;
+    text-shadow: 2px 2px 3px black;
   }
-  h2 {
+  h2, h5 {
       color:white;
       font-size: 30px;
+
   }
+  p {
+    color:white;
+    font-size: 15px;
+}
